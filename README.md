@@ -1,6 +1,6 @@
 ## 陈星星  Java开发工程师（实习）  
 ---
-男 | 1997 | 英语4级                                                                   
+男 / 1997 / 英语4级                                                                   
 电话：18379643981             
 邮箱：superboycxx6@gmail.com  
 csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)  
@@ -11,25 +11,25 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 ```
 
 ## 软件技能 
--  熟悉Java语言编程，熟练使用集合框架并理解其原理
--  熟悉网络编程、多线程、集合等基础知识、了解常用的设计模式。
--  熟悉Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架
+-  熟悉Java语言编程，熟练使用集合框架并理解其原理。
 -  熟悉J2EE技术中的Servlet、Filter与Interceptor技术
 -  熟练用MySQL数据库，并了解Redis,Mongodb等NoSQL数据库。
+-  熟练使用Maven项目管理及自动构建工具与Git版本控制工具。
+-  熟悉网络编程、多线程、集合等基础知识、了解常用的设计模式。
 -  熟悉应用服务器软件Tomcat等容器配置和部署，能够使用Linux操作系统。
--  会使用Maven项目管理及自动构建工具与Git版本控制工具
--  对JavaScript，Ajax，jQuery，BoorStrap等前台开发技术有一定的了解。
+-  对JavaScript，jQuery，Ajax，BoorStrap，Node等前台开发技术有一定的了解。
+-  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。
 ******************************
 
 ## 项目经历
 
 ### 上饶农商四扫平台（2017.10-2017.12）
-开发环境：Eclipse+Maven+Git
+开发环境：Eclipse+Maven+Git      
 软件架构：Mysql+SSM+Redis+Shiro    
 项目描述：上饶农商四扫平台是一个数据录入平台，采用前后端完全分离的机制进行交互。使
 用Shiro实现对用户的认证和授权，为了提高系统的性能使用redis做系统缓存。    
 责任描述：  
-  1. 参与项目的需求分析和项目构建。  
+> 1. 参与项目的需求分析和项目构建。  
   2. 负责数据库的构建和完整后台业务的开发及测试。  
   3. 通过本项目我对Web开发有了思路，对Restful接口规范更清晰的理解。
 
