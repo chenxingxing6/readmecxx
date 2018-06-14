@@ -19,7 +19,7 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 -  熟悉应用服务器软件Tomcat等容器配置和部署，能够使用Linux操作系统。
 -  对JavaScript，jQuery，Ajax，BoorStrap，Node等前台开发技术有一定的了解。
 -  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。
-******************************
+---
 
 ## 项目经历
 
@@ -93,4 +93,5 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 
 ## 自我评价
 - 技术崇拜，认真负责，能够抗压，喜欢挑战
-**********************************
+
+---
