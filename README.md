@@ -1,24 +1,27 @@
-## 陈星星  Java开发工程师（实习）  
+## 陈星星  Java开发工程师（实习）        
 ---
-男 / 1997 / 英语4级                                                                   
+男 / 1997 / 英语4级                   
 电话：18379643981             
-邮箱：superboycxx6@gmail.com  
+邮箱：18379643981@163.com               
 csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)  
 
 ## 教育背景  （2015-2019）  
 ```
-华东交通大学   软件工程（本科）  在校成绩：2%    
+华东交通大学   软件工程（本科）  在校成绩：前2%    
 ```
 
-## 软件技能 
--  熟悉Java语言编程，熟练使用集合框架并理解其原理。
--  熟悉J2EE技术中的Servlet、Filter与Interceptor技术。
--  熟练用MySQL数据库，并了解Redis,Mongodb等NoSQL数据库。
--  熟练使用Maven项目管理及自动构建工具与Git版本控制工具。
--  熟悉网络编程、多线程、集合等基础知识、了解常用的设计模式。
--  熟悉应用服务器软件Tomcat等容器配置和部署，能够使用Linux操作系统。
--  对JavaScript，jQuery，Ajax，BoorStrap，Node等前台开发技术有一定的了解。  
--  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。  
+## 软件技能
+-  熟悉Java语言编程，了解常用的设计模式。
+-  熟悉I/O、多线程、集合、网络编程等基础知识。
+-  熟悉HTTP与HTTPS协议技术，了解TCP/IP模型。
+-  熟悉J2EE技术中的Servlet、Jsp、Filter与Interceptor技术。
+-  对JS，jQuery，Ajax，BoorStrap，Node.js等前台开发技术有一定的了解。
+-  熟悉应用服务器软件Tomcat，Nginx等配置和部署,并了解Docker应用容器引擎。
+-  熟练使用Eclipse、Idea、git等开发、版本控制工具，并会用Maven对项目进行管理。
+-  熟悉Linux操作系统，掌握Mysql等主流数据库，并了解Redis,Mongodb等NoSQL数据库。  
+-  熟练使用Spring、SpringMVC、SpringBoot、Mybatis、Shiro，了解过Struts、Hibernate框架。
+-  了解分布式下的面向服务架构(SOA),会简单使用Dubbo，ActiveMQ，Solr等中间件技术。
+-  了解Hadoop/Hive/Hbase等分布式计算环境进行海量数据离线分析。
 
 
 ---
@@ -39,8 +42,8 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 
 #### 淘淘商城（2018.1-2018.04）
 开发环境：Eclipse+Maven+Git  
-软件架构：Mysql+SSM+Redis+Solr+SOA+Doubbo   
-项目描述：淘淘网上商城是一个综合性的B2C平台，类似京东商城、天猫商城。会员可以在
+软件架构：Mysql+SSM+Redis+Solr+Dubbo   
+项目描述：淘淘商城是一个综合性的B2C平台，类似京东商城、天猫商城。会员可以在
 商城浏览商品、下订单，以及参加各种活动。淘淘商城采用分布式系统架构，子系统之间都是
 调用服务来实现系统之间的通信，使用http协议传递json数据方式实现。这样降低了系统之间
 的耦合度，提高了系统的扩展性。为了提高系统的性能使用redis做系统缓存，并使用redis实
@@ -94,7 +97,7 @@ csdn：[https://blog.csdn.net/m0_37499059/](https://blog.csdn.net/m0_37499059/)
 - 2016-2017学年：二等奖学金，三好学生，计算机作品大赛优秀奖
 
 ## 自我评价
-- 技术崇拜，认真负责，能够抗压，喜欢挑战
+- 一个会弹吉他的程序猿，技术崇拜，认真负责，能够抗压，喜欢挑战
 
 
 ---
